@@ -27,20 +27,23 @@ To get started with the project, follow these steps:
 ## Project Structure
 
 The project structure is organized as follows:
+
+```
 Blockchain-ERC20-token/
 │
-├── contracts/ # Solidity smart contracts
-│ └── IbraToken.sol # ERC20 token contract
+├── contracts/             # Solidity smart contracts
+│   └── IbraToken.sol     # ERC20 token contract
 │
-├── migrations/ # Truffle migration scripts
-│ └── 2_deploy_ibra_token.js
+├── migrations/            # Truffle migration scripts
+│   └── 2_deploy_ibra_token.js
 │
-├── test/ # Test files for smart contracts
-│ └── ibraToken.test.js
+├── test/                  # Test files for smart contracts
+│   └── ibraToken.test.js
 │
-├── truffle-config.js # Truffle configuration file
-├── .gitignore # Git ignore file
-└── README.md # Project README file
+├── truffle-config.js      # Truffle configuration file
+├── .gitignore             # Git ignore file
+└── README.md              # Project README file
+```
 
 ## Contributing
 
