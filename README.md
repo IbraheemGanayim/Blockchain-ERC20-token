@@ -1,6 +1,6 @@
 # Blockchain ERC20 Token Project
 
-Welcome to our Blockchain ERC20 Token Project! This project is developed as part of our blockchain course at [Your University/Institution].
+Welcome to my Blockchain ERC20 Token Project! This project is developed as part of our blockchain course at Braude Academic College.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This project aims to demonstrate the development and deployment of an ERC20 toke
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository**: `git clone https://github.com/yourusername/Blockchain-ERC20-token.git`
+1. **Clone the repository**: `git clone https://github.com/ibraheemganayim/Blockchain-ERC20-token.git`
 2. **Install dependencies**: `npm install`
 3. **Start a local Ethereum network**: Use Ganache or Ganache CLI.
 4. **Compile the smart contracts**: `truffle compile`
